@@ -1,3 +1,4 @@
 <?php
-	echo "Hell World!";
+	echo "Hello World!";
+	edho "世界の皆さん、こんにちは";
 ?>
